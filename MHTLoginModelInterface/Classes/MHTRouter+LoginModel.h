@@ -5,8 +5,7 @@
 //  Created by mangox on 2025/9/25.
 //
 
-#import "MHTRouter.h"
-
+#import <MHTRouter/MHTRouter.h>
 NS_ASSUME_NONNULL_BEGIN
 
 @interface MHTRouter (LoginModel)
