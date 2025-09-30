@@ -1,0 +1,23 @@
+PODS:
+  - MHTLoginModelInterface (0.1.0):
+    - MHTRouter
+  - MHTRouter (0.1.0)
+
+DEPENDENCIES:
+  - MHTLoginModelInterface (from `../`)
+
+SPEC REPOS:
+  https://github.com/changjianfeishui/mht-specs:
+    - MHTRouter
+
+EXTERNAL SOURCES:
+  MHTLoginModelInterface:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MHTLoginModelInterface: 75c158418a1f193bd28da93d76ab86aaf8e9f482
+  MHTRouter: f848a0499296a116b466c8e10037c9d502e14753
+
+PODFILE CHECKSUM: 421216137077150cf280f994618cd59576b5644b
+
+COCOAPODS: 1.16.2

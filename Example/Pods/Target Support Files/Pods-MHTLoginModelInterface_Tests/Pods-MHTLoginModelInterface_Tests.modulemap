@@ -1,0 +1,6 @@
+framework module Pods_MHTLoginModelInterface_Tests {
+  umbrella header "Pods-MHTLoginModelInterface_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
